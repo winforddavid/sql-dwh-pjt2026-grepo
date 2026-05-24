@@ -4,7 +4,7 @@ Welcome to my **Data Warehouse and Analytics Project on Databricks** repository!
 
 ## 🏗️ Data Architecture
 
-The data architecture for this project follows the Medallion Architecture **Bronze**, **Silver**, and **Gold** layers as follows:
+The data architecture for this project follows the Medallion Architecture **Bronze**, **Silver**, and **Gold** layers, building a Data Warehouse with Baraa as follows:
 ![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
