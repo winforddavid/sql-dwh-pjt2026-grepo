@@ -1,6 +1,11 @@
 # Data Warehouse and Analytics Project on Databricks
 
-Welcome to my **Data Warehouse and Analytics Project on Databricks** repository! 🚀  
+## 🌟 About Me
+
+Hi there! I'm **Winford David**, also known as **Winf or winnie** to my friends. I’m a Data Professional and passionate about Extracting, Transforming and Loading business data, welcome to my **Data Warehouse and Analytics Project on Databricks** repository! 🚀  !
+
+[![Winford David LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
+
 
 ## 🏗️ Data Architecture
 
@@ -80,9 +85,3 @@ data-warehouse-project/
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
-
-## 🌟 About Me
-
-Hi there! I'm **Winford David**, also known as **Winf or winnie** to my friends. I’m a Data Professional and passionate about Extracting, Transforming and Loading business data!
-
-[![Winford David LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/winforddavid)
